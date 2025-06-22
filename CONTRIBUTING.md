@@ -6,7 +6,7 @@ Thank you for your interest in contributing to this project!
 
 1. Fork this repository.
 2. Clone your fork using:
-  git clone https://github.com/your-username/CourseraFinalProject.git
+  git clone https://github.com/SelmanSaracoglu/CourseraFinalProject.git
 3. Create a new branch:
    git checkout -b feature-name
 4. Make your changes and commit them:
